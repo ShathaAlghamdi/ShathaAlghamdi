@@ -1,4 +1,3 @@
-```md
 # Hi there, I'm Shatha Alghamdi 👋
 
 Computer Science graduate, developer, and digital experience specialist with a background spanning **software development, data, digital products, and web experiences**.
@@ -182,4 +181,4 @@ My experience with digital platforms has given me a broader perspective on softw
 <p align="center">
   <i>Still learning. Still building. Still trying to figure it out. ✨</i>
 </p>
-```
+
