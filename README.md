@@ -125,22 +125,22 @@ I’m particularly interested in how **technology, UX, data, and AI** come toget
 My experience with digital platforms has given me a broader perspective on software — not only **how to build it**, but also how people interact with it, how it performs as a product, and how technology can solve real user needs.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShathaAlghamdi&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Shatha's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlghamdi&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Most Used Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShathaAlghamdi&show_icons=true&theme=transparent&hide_border=true" alt="Shatha's GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlghamdi&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Still learning. Still building. Still trying to figure it out. ✨</i>
+</p>
+
 
 ---
 
