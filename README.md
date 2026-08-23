@@ -127,19 +127,7 @@ My experience with digital platforms has given me a broader perspective on softw
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShathaAlghamdi&show_icons=true&theme=transparent&hide_border=true" alt="Shatha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlghamdi&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Still learning. Still building. Still trying to figure it out. ✨</i>
-</p>
+<a href="https://github.com/ShathaAlghamdi"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShathaAlghamdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlghamdi&layout=compact&langs_count=8&theme=tokyonight"/> </a>
 
 
 ---
