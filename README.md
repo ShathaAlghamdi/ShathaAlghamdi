@@ -48,7 +48,7 @@ I enjoy working at the intersection of **technology, user experience, and proble
 
 **Current Focus**
 
-> *Still trying to figure it out.* 😭
+> *Still trying to figure it out.* 
 
 ---
 
