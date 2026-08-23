@@ -116,33 +116,6 @@ A collaborative Python project developed during a hackathon, combining technical
 
 ---
 
-## 💡 Beyond Code
-
-My work and interests extend beyond writing code.
-
-I’m particularly interested in how **technology, UX, data, and AI** come together to create better digital products and experiences.
-
-My experience with digital platforms has given me a broader perspective on software — not only **how to build it**, but also how people interact with it, how it performs as a product, and how technology can solve real user needs.
-
----
-## 📊 GitHub Stats
-
-<a href="https://github.com/ShathaAlghamdi"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ShathaAlghamdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShathaAlghamdi&layout=compact&langs_count=8&theme=tokyonight"/> </a>
-
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ShathaAlghamdi&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
